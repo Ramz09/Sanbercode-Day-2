@@ -1,0 +1,64 @@
+header {
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+}
+body{
+    background-image: url(pattern.jpg);
+}
+
+
+
+ul{
+    list-style-type: none;
+    
+}
+
+ul li{
+    display: inline-block;
+    padding-right: 15px;
+    color: blue;
+
+}
+
+a{
+    text-decoration: none;
+    font-size: 23;
+    
+}
+
+footer{
+    background: black;
+    padding: 2px;
+}
+
+h5 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-bottom-style: groove;
+    border-left-style: hidden;
+    padding-left: 5px;
+  }
+
+section{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+    background:white
+    }
+
+h1{
+        text-align: center;
+    }
+
+h3{
+    padding-left: 5px; 
+}
